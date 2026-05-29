@@ -21,7 +21,6 @@ complete with live Stockfish evaluations, material advantages, and remaining tim
 
 🚀 How to Use
 
-Since this is a client-side web application, installation is incredibly simple.
 1) Clone the repository: git clone https://github.com/Sa8marth/scoreable-studio.git
 2) Simply double-click EvaluationBar.html to open it in any modern web browser.
 3) Go to Lichess Broadcasts, Copy the URL of an active round (e.g., https://lichess.org/broadcast/fide-candidates-2024/round-1/xxxxxx). Paste the URL into the input field in Scoreable Studio and click "Load True Live Data".
